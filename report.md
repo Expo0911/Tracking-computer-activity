@@ -10,3 +10,5 @@ Tracking computer activity
   set up account, download the app, install on computer
 
   # Summary of activity
+  # Graphics
+  ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
