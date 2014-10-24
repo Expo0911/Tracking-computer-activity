@@ -10,6 +10,8 @@ Tracking computer activity
   set up account, download the app, install on computer
 
   # Summary of activity
+  
+  ```
   #Graphics
     ### Statistical activity for Oct 20th 
   ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
