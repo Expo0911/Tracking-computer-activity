@@ -11,9 +11,10 @@ Tracking computer activity
 
   # Summary of activity
   
-  ```
+  
   #Graphics
-    ### Statistical activity for Oct 20th 
+  
+  ### Statistical activity for Oct 20th 
   ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
   ![Oct 20th +2](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-2.png "Activity for Oct 20th")
     ### Statistical activity for Oct 21th 
