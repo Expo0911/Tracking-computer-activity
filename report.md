@@ -11,4 +11,8 @@ Tracking computer activity
 
   # Summary of activity
   # Graphics
-  ![21312312](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")  
+  ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
+  ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
+  ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
+  ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
+  ![Oct 20th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")
