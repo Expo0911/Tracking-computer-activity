@@ -11,4 +11,4 @@ Tracking computer activity
 
   # Summary of activity
   # Graphics
-  ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+  ![21312312](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-20-1.png "Activity for Oct 20th")  
