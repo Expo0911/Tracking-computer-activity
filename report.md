@@ -10,7 +10,10 @@ Tracking computer activity
   set up account, download the app, install on computer
 
   # Summary of activity
-  
+  I installed “RescueTime” on my mac on October 20th 2014 and observed my general computer activity during a five-day period from Oct 20th to Oct 24th. From the statistics, we can see that on these days I spent average 3 hours on my mac computer. Normally I will spend about 5-8 hours on my computers. I do homework and parts of coding on Mac, java & C++ programming on Windows, C coding on Linux. Hence, the activity will not entirely reflect my daily computer activities. However, from the “RescueTime” report, we can see that I spend most of time on software development, entertainment and uncategorized activities using Mac system. Uncategorized activities contain online live sports and some websites about sports. Because I am a basketball fan, I spend about one hour per day watching live broadcast using http://www.azhibo.com if it is the game day for Houston Rockets or after-game highlights on http://sports.sina.com.cn/. 
+	On Oct 20th, I installed “DevFatigue” on Mac, and test Rabbit Plugged in. On Oct 21th, I find there are no XML files under Rabbit. Therefore, most of the time was spent on finding the solution of this problem. On Oct 22th, I watched a basketball game at night. On Oct 23th, I programed using Eclipse. On Oct 24th, I used github and Microsoft word to finish the CSC510 homework. Overall, we can see that my major activities are software development, entertainment and webpage browsing.
+
+
   
   #Graphics
   
@@ -37,6 +40,8 @@ Tracking computer activity
   ### Statistical activity for Oct 24th 
   ![Oct 24th +1](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-24-1.png "Activity for Oct 24th")
   ![Oct 24th +2](https://github.com/Expo0911/Tracking-computer-activity/blob/master/10-24-2.png "Activity for Oct 24th")
+  
+  
   
   # Things I learned and might improve
   1.	Before using this “Rescue time” application, I have no idea about time spent on my computer.  I always map out my plans on a notebook and then carry out them. For example, I may plan to spend two hours doing programming homework using Python. After that, I take out my computer and do the two-hour homework. After close reviewing the detailed report, I am a little surprised about how planless I am. Even though I spend some time doing the homework, I may spend about at least 15% of my time doing other things like surfing the Internet, updating software or referring online materials. I think I need to pay more attention about and improve my effectiveness when using computers. Computers are part of our daily life, knowing more about the time spend on them is meaningful and useful. For me, I will check the report from “Rescue time” dashboard by the end of a day, to see if I am too lazy or inefficient.
