@@ -8,6 +8,9 @@ Tracking computer activity
 
   `https://www.rescuetime.com/`
   set up account, download the app, install on computer
+  # Instruction
+  Please use github to open report.md file then you will see the report
+  or open https://github.com/Expo0911/Tracking-computer-activity/blob/master/report.md
 
   # Summary of activity
     - I installed “RescueTime” on my mac on October 20th 2014 and observed my general computer activity during a five-day period from Oct 20th to Oct 24th. From the statistics, we can see that on these days I spent average 3 hours on my mac computer. Normally I will spend about 5-8 hours on my computers. I do homework and parts of coding on Mac, java & C++ programming on Windows, C coding on Linux. Hence, the activity will not entirely reflect my daily computer activities. However, from the “RescueTime” report, we can see that I spend most of time on software development, entertainment and uncategorized activities using Mac system. Uncategorized activities contain online live sports and some websites about sports. Because I am a basketball fan, I spend about one hour per day watching live broadcast using http://www.azhibo.com if it is the game day for Houston Rockets or after-game highlights on http://sports.sina.com.cn/.
