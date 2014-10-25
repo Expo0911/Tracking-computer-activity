@@ -9,7 +9,7 @@ Tracking computer activity
   `https://www.rescuetime.com/`
   set up account, download the app, install on computer
   # Instruction
-  Please use github to open report.md file then you will see the report <-br>
+  Please use github to open report.md file then you will see the report <br>
   or open https://github.com/Expo0911/Tracking-computer-activity/blob/master/report.md
 
   # Summary of activity
