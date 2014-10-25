@@ -1,5 +1,6 @@
 Tracking computer activity
 ===============
+<a href="https://travis-ci.org/tylertreat/BigQuery-Python"><img align="right" src="https://travis-ci.org/tylertreat/BigQuery-Python.svg"></a>
 - Track general computer activity using https://www.rescuetime.com/ 
 - Create a markdown report (report.md) with 200+ word summary of your activity, include graphics. (make sure to have in your zip file).
 - Describe 3 things you learned and might improve.
